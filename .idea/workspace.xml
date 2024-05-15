@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3a846e0-85a3-4a56-84e6-4782cc45ac5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/BuilderRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/CompositeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/ChannelCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/ChannelCollectionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/ChannelIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/ChannelTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/IteratorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/MyTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/MyTopicSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/ObserverRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/CommandExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/CommandExecutorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/CommandExecutorProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/ProxyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/EagerInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/GlassHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/HouseTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/TemplateMethodRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/WoodenHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/ItemElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/ShoppingCartVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/ShoppingCartVisitorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/VisitorRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gW8SOnWF9UWksxsxmFBqbhhFwj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BuilderRunner.executor": "Run",
+    "Application.CompositeRunner.executor": "Run",
+    "Application.IteratorRunner.executor": "Run",
+    "Application.ObserverRunner.executor": "Run",
+    "Application.ProxyRunner.executor": "Run",
+    "Application.TemplateMethodRunner.executor": "Run",
+    "Application.VisitorRunner.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MediatorRunner">
+    <configuration name="CompositeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.CompositeRunner" />
+      <module name="laba-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediatorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mediator.MediatorRunner" />
+      <module name="laba-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.ObserverRunner" />
+      <module name="laba-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.ProxyRunner" />
+      <module name="laba-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="visitor.VisitorRunner" />
+      <module name="laba-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MediatorRunner" />
+        <item itemvalue="Application.ObserverRunner" />
+        <item itemvalue="Application.CompositeRunner" />
+        <item itemvalue="Application.ProxyRunner" />
+        <item itemvalue="Application.VisitorRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3a846e0-85a3-4a56-84e6-4782cc45ac5f" name="Changes" comment="" />
+      <created>1715801974425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715801974425</updated>
+      <workItem from="1715801975589" duration="2500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
